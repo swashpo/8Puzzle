@@ -1,13 +1,6 @@
-/* *****************************************************************************
- *  Name:    Richard Ma
- *  NetID:   rm44
- *  Precept: P05
- *
- *
- *  Description:  Given a Board, processes through to find the winning combo
- *  to get to the target board.
- *
- **************************************************************************** */
+// Description:  Given a Board, processes through to find the winning combo
+// to get to the target board.
+
 
 
 import edu.princeton.cs.algs4.MinPQ;

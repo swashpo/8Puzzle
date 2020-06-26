@@ -1,13 +1,6 @@
-/* *****************************************************************************
- *  Name:    Richard Ma
- *  NetID:   rm44
- *  Precept: P05
- *
- *
- *  Description:  Creates Board object and methods for computing neighbors,
- *  hamming, and manhattan distances.
- *
- **************************************************************************** */
+// Description:  Creates Board object and methods for computing neighbors,
+// hamming, and manhattan distances.
+
 
 import edu.princeton.cs.algs4.Stack;
 import edu.princeton.cs.algs4.StdOut;
